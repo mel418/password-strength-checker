@@ -31,3 +31,5 @@ Provides feedback and a strength score out of 5.
 
 - **User Feedback**: Displaying results dynamically in the GUI.
 
+I want to improve it with password entropy later on
+(https://nordvpn.com/blog/what-is-password-entropy/#:~:text=Password%20entropy%20is%20the%20measure,that%20takes%20ages%20to%20crack.)
